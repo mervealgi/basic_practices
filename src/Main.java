@@ -23,6 +23,12 @@ public class Main {
         System.out.println("h:" + h);
         System.out.println("i:" + i);
 
+        //byte --> short --> int --> long
+        //int --> float --> double
+        double x = 4d;
+        float j = (float)5.0; //for conversation to double without () can not be accepted
+        float k = 5f;
+        float l = 5.2f;
 
     }
 }
