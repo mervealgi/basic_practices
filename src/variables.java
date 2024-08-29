@@ -1,4 +1,4 @@
-public class Main {
+public class variables {
     public static void main(String[] args) {
 
         // int 1value = 1;  //1value is not possible for a variable
@@ -29,6 +29,11 @@ public class Main {
         float j = (float)5.0; //for conversation to double without () can not be accepted
         float k = 5f;
         float l = 5.2f;
+
+        int pi1 = 22 / 7;
+        float pi2 = 22f / 7f;
+        double pi3 = 22d / 7d;
+        System.out.println(pi1 + ' ' + pi2 + ' ' + pi3);
 
     }
 }
