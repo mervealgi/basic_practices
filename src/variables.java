@@ -35,5 +35,19 @@ public class variables {
         double pi3 = 22d / 7d;
         System.out.println(pi1 + ' ' + pi2 + ' ' + pi3);
 
+        char m = '0';
+        char n = 500;
+
+        String o = "Hello";
+        int p = 42;
+        System.out.println(o + p);
+
+        System.out.println(3 + 4.2);
+        System.out.println(3 - 5f);
+        System.out.println(10 / 4.0);
+        System.out.println(3 * 4.5);
+
+
+
     }
 }
