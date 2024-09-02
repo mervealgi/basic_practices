@@ -18,7 +18,7 @@ public class variables {
         int g = ++f;
         int h = f++;
         int i = --g;
-        System.out.println("f:" + f);
+        System.out.println("f:" + f);  //f:
         System.out.println("g:" + g);
         System.out.println("h:" + h);
         System.out.println("i:" + i);
