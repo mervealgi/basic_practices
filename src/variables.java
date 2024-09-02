@@ -47,7 +47,5 @@ public class variables {
         System.out.println(10 / 4.0);
         System.out.println(3 * 4.5);
 
-
-
     }
 }
