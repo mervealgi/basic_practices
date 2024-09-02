@@ -8,8 +8,8 @@ public class variables {
 
         int b = 10;
         double c = 3.0;
-        int d = (int)(b/c);
-        double e = b % c;
+        int d = (int)(b/c);             //d: 3
+        double e = b % c;               //e: 1.0
         System.out.println("d:" + d);
         System.out.println("e:" + e);
 
